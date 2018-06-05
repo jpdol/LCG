@@ -21,7 +21,7 @@ unsigned long long randomLCG(unsigned long long x){
 
 int main(){
 
-    unsigned long long x = 6798466340874578877;
+    unsigned long long x = 6798466340874578877; //seed
     
     int period;
     
