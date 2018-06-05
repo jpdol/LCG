@@ -7,7 +7,7 @@ Para implementação de geradores de números pseudoaleatórios (PRNG, sigla em 
 em inglês) é frequentemente usado.
 Um LCG é definido pela relação de recorrência:
 
-                                                 Xn+1 = aXn + b (mod m)
+                                         Xn+1 = aXn + b (mod m)
 
 onde Xn é o n-ésimo número da sequência gerada e a, b, m são inteiros constantes que especificam o gerador.
 
